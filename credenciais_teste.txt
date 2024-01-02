@@ -1,0 +1,6 @@
+{
+    "name": "JorgeanTeste",
+    "email": "Jorgeanteste@email.com",
+    "notifications": true,
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ik1vbiBEZWMgMTggMjAyMyAxODowNDozOCBHTVQrMDAwMC5Kb3JnZWFudGVzdGVAZW1haWwuY29tIiwiaWF0IjoxNzAyOTIyNjc4fQ.kPCLFxjxJjTXf1T2j2rCdjW8p2D9D26etHGf_HtCvSk"
+}

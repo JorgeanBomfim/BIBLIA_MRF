@@ -1,0 +1,7 @@
+usuarios:
+  - username: jsmith
+    email: jsmith@gmail.com
+    senha: abc
+  - username: rbriggs
+    email: rbriggs@gmail.com
+    senha: 123
